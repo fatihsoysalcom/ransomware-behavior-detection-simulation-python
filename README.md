@@ -1,0 +1,2 @@
+# ransomware-behavior-detection-simulation-python
+This example simulates a ransomware attack by creating dummy files, 'corrupting' their content, and renaming them with a suspicious extension. It then demonstrates a basic detection mechanism that identifies ransomware-like activity by counting files with the new, unknown extension. This illustrates the behavioral patterns that advanced monitoring 
